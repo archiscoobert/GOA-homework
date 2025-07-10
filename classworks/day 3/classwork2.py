@@ -1,0 +1,11 @@
+name = "archil chikovani"
+age = "11"
+
+print(name)
+print(age)
+
+name = "Archil Chikovani"
+age = "1016974659278654786016910957984758814178581845719457038457716597346987265987461874659871634586198764983461"
+
+print(name)
+print(age)
